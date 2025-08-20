@@ -1,0 +1,44 @@
+html,body{
+    margin-top: 10%;
+    text-align: center;
+}
+span{
+    font-size: 30px;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: lightcoral;
+    padding:10px
+}
+h2{
+    text-align: center;
+}
+#btn-1{
+    background-color:green;
+    padding:5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:100px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#btn-2{
+    background-color:skyblue;
+    padding:5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:100px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#btn-3{
+    background-color:red;
+    padding:5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width:100px;
+    font-size: 16px;
+    font-weight: bold;
+}
